@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+crawl_news_output.csv
+crawl_news_article_output.csv
